@@ -1,4 +1,6 @@
-# JavaPractice3
+# JavaPractices
+
+Practice #3
 
 Акжигитов Р. Р. ИКБО-16-17
 
