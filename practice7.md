@@ -27,7 +27,7 @@ class AlcoholSufferer {
         player1.addLast(card1);
       } else {
         player2.addLast(card2);
-        player1.addLast(card1);
+        player2.addLast(card1);
       }
       
       for (int j : player1)
